@@ -1,16 +1,12 @@
-# panda_flutter
+# Panda Flutter WIP 🚧
 
-My Flutter Project
+This is a flutter built project belonging to https://github.com/Sid911/panda. The project is currently deployable for only android and ios yet. This can be built for other platforms but the behaviour of UI wouldn't be polished for larger screens. 
 
-## Getting Started
+Progress - 
+- [x] Android
+- [ ] Windows
+- [ ] Web
 
-This project is a starting point for a Flutter application.
+![Android2](https://user-images.githubusercontent.com/27860105/168460211-02af4a40-2f3e-4878-a7d7-ddc15178fbf1.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
