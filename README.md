@@ -6,6 +6,4 @@ Progress -
 - [x] Android
 - [ ] Windows
 - [ ] Web
-
-![Android2](https://user-images.githubusercontent.com/27860105/168460467-637d2c60-cd50-4373-8bfe-28290a2c3f01.png)
-
+![Android2](https://user-images.githubusercontent.com/27860105/168460691-4d540088-15a5-4f6a-80bb-e523ff479a49.png)
